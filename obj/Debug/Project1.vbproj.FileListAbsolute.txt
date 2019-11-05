@@ -1,0 +1,3 @@
+C:\Users\Saurabh kumar\Desktop\Weeble CRMS\Project1\bin\Debug\Project1.exe.config
+C:\Users\Saurabh kumar\Desktop\Weeble CRMS\Project1\obj\Debug\Project1.exe
+C:\Users\Saurabh kumar\Desktop\Weeble CRMS\Project1\obj\Debug\Project1.pdb
